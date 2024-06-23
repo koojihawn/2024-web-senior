@@ -1,0 +1,5 @@
+git config --global user.name "KooJiHwan"
+git config --global user.email "steve54321@naver.com"
+git init
+git add finaltest.
+git commit -m "Initial commit"
